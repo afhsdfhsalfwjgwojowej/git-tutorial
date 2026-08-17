@@ -6,5 +6,3 @@
  - fix-B
 
  - feature-C
-
- - reseted
